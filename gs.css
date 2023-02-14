@@ -1,0 +1,19 @@
+.speech{font-family: 'Times New Roman', Times, serif;
+    font-size: 35;
+    color: black;}
+.direction{font-family: 'Gill Sans';
+    font-size: 50;
+    color: black;
+    background-color: azure;}
+.direction:hover{background-color: lavender;
+    color: brown}
+.IMP{color: blue;
+    font-size: 50px;}
+.Former poor{color:yellowgreen;
+             font-size: 50px;}
+.judge{color:blueviolet;
+       font-size: 50px;}
+.rich citizen{color:tomato;
+              font-size: 50px;}
+.Vain woman{color:yellowgreen;
+              font-size:50px}
