@@ -17,3 +17,21 @@
               font-size: 50px;}
 .Vain_woman{color:yellowgreen;
               font-size:50px}
+table{font-size: 10px;
+    font-family: 'Times New Roman';
+    border-collapse: collapse;
+    width: 20px;
+    margin: 10px solid black;
+    border: 2px solid black;
+}
+tr,th,td{border: 2px solid black;
+    text-align: center;
+    padding: 10px;
+    margin: 2px solid black;
+    width: fit-content;
+    height: 10%;
+    
+}
+tr:nth-child(even){
+    background-color: thistle;
+}
