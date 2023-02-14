@@ -7,6 +7,7 @@
     background-color: azure;}
 .direction:hover{background-color: lavender;
     color: brown}
+h6:hover{text-shadow: 2px 2px 5px crimson;}
 .IMP{color: blue;
     font-size: 50px;}
 .Former_Poor{color:yellowgreen;
@@ -17,18 +18,18 @@
               font-size: 50px;}
 .Vain_woman{color:yellowgreen;
               font-size:50px}
-table{font-size: 10px;
+table{font-size: 20px;
     font-family: 'Times New Roman';
     border-collapse: collapse;
-    width: 20px;
+    width: 500px;
     margin: 10px solid black;
-    border: 2px solid black;
+    border: 5px solid black;
 }
 tr,th,td{border: 2px solid black;
     text-align: center;
     padding: 10px;
     margin: 2px solid black;
-    width: fit-content;
+    width:50px;
     height: 10%;
     
 }
