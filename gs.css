@@ -7,7 +7,8 @@
     background-color: azure;}
 .direction:hover{background-color: lavender;
     color: brown}
-h6:hover{text-shadow: 2px 2px 5px crimson;}
+h6:hover{text-shadow: 2px 2px 5px crimson;
+        border: 2px solid brown;}
 .IMP{color: blue;
     font-size: 50px;}
 .Former_Poor{color:yellowgreen;
