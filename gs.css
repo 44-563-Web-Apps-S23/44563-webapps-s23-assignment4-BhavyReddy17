@@ -9,6 +9,7 @@
     color: brown}
 h6:hover{text-shadow: 2px 2px 5px crimson;
         border: 2px solid brown;}
+.fa-solid{font-size: large}
 .IMP{color: blue;
     font-size: 50px;}
 .Former_Poor{color:yellowgreen;
@@ -36,4 +37,11 @@ tr,th,td{border: 2px solid black;
 }
 tr:nth-child(even){
     background-color: thistle;
+}
+ul.navbar-horizontal li{
+  list-style-type: none;
+  background-color: antiquewhite;
+}
+ul.navbar-horizontal a{
+    display:block;
 }
